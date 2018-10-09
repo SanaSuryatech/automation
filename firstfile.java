@@ -1,3 +1,3 @@
-Hello world
-This is my first program
+
+this is my first program
 This is second line
